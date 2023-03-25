@@ -14,3 +14,11 @@ D:\SEM 1-2023\SIS 2420 A\Proyecto\Practica1\ClaseYHerencia\ClasesHerencia\obj\De
 D:\SEM 1-2023\SIS 2420 A\Proyecto\Practica1\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
 D:\SEM 1-2023\SIS 2420 A\Proyecto\Practica1\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
 D:\SEM 1-2023\SIS 2420 A\Proyecto\Practica1\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.AssemblyReference.cache
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
+C:\Users\mesia\OneDrive\Documentos\ACTUALIZACION TECNOLOGICA\ClaseyHerencia-main\ClaseyHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb

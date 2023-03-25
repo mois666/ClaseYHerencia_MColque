@@ -95,7 +95,22 @@ namespace ClasesHerencia
                 Nombre = "Fernando",
                 Sueldo = 150
             });
-
+            ////////////////////////////////
+            listaDocentes.Add(new Docente()
+            {
+                Cuenta = "cAlec",
+                Password = "999101",
+                Nombre = "alekey",
+                Sueldo = 666
+            });
+            listaDocentes.Add(new Docente()
+            {
+                Cuenta = "cMoiss",
+                Password = "666",
+                Nombre = "Mois666",
+                Sueldo = 666
+            });
+            ////////////////////////////////
             MostrarLista(listaDocentes);
 
             Double promedio = getPromedio(listaDocentes);
